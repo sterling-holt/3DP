@@ -1,5 +1,5 @@
-timelapse.cfg
-moonraker.conf
-mainsail.cfg
-crowsnest.conf
-.moonraker.conf.bkp
+**/timelapse.cfg
+**/moonraker.conf
+**/mainsail.cfg
+**/crowsnest.conf
+**/.moonraker.conf.bkp
