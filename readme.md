@@ -1,6 +1,7 @@
-Ender 3 v2 Klipper setup
+Voron 2.4 R2 Rev. C LDO Kit
 
 Upgrades:
-BTT SKR Mini E3 v3
-Sprite Pro Extruder Kit
-CRTouch
+--
+--
+--
+--
