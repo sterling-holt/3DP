@@ -1,3 +1,6 @@
 [submodule "Voron-2.4"]
 	path = Voron-2.4
 	url = https://github.com/VoronDesign/Voron-2.git
+[submodule "LDO-kit"]
+	path = LDO-kit
+	url = https://github.com/MotorDynamicsLab/LDOVoron2.git
